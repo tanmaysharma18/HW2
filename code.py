@@ -108,7 +108,7 @@ str(int(scores[1]))
 # In[48]:
 
 
-file = open('ak.txt', 'w')
+file = open('accuracy.txt', 'w')
 file.write(str(int(scores[1])))
 
 
